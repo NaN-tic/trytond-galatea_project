@@ -1,0 +1,11 @@
+#
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:project.work,galatea:"
+msgid "Galatea"
+msgstr "Galatea"
+
+msgctxt "help:project.work,galatea:"
+msgid "Allow to show at Galatea"
+msgstr "Permetre mostrar a Galatea"
