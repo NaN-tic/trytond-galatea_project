@@ -31,3 +31,10 @@ class Work:
     def on_change_with_party_address(self):
         if self.parent and self.parent.party_address:
             return self.parent.party_address.id
+
+    @classmethod
+    def galatea_domain(cls):
+        '''Galatea domain'''
+        return [
+            ('galatea', '=', True),
+            ]
