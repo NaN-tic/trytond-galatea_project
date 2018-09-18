@@ -6,8 +6,7 @@ from trytond.model import fields
 __all__ = ['Work']
 
 
-class Work:
-    __metaclass__ = PoolMeta
+class Work(metaclass=PoolMeta):
     __name__ = 'project.work'
     galatea = fields.Boolean('Galatea',
         help='Allow to show at Galatea')

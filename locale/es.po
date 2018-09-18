@@ -9,3 +9,7 @@ msgstr "Galatea"
 msgctxt "help:project.work,galatea:"
 msgid "Allow to show at Galatea"
 msgstr "Permitir mostrar a Galatea"
+
+msgctxt "view:project.work:"
+msgid "Galatea"
+msgstr "Galatea"
